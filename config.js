@@ -14,13 +14,13 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapis.xyz': 'Your Key',
+	'https://zenzapis.xyz': 'zenzkey_672f98ca4c',
 }
 
 // Other
-global.owner = ['6283167714830','6281382420312','6288292024190']
+global.owner = ['6283167714830','6281382420312','6289653417254']
 global.premium = ['6288292024190']
-global.packname = 'Hisoka Morrow'
+global.packname = 'Hisoka Morrow runner by RuzzID'
 global.author = 'WhatsApp Bot'
 global.sessionName = 'hisoka'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -38,7 +38,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 100000
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')
 
